@@ -6,6 +6,7 @@ public class mbTest01 {
 		{
 			System.out.println("Automation class method");
 			System.out.println("for Project1");
+			System.out.println("for AugustSelenium adding line 9");
 		}
 		public static void main(String[] args) {
 			mbTest01 ob=new mbTest01();
